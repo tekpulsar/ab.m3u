@@ -11,10 +11,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPaís" tvg-name="ElPaís" group-title="España",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-#EXTINF:-1 group-title="PELICULAS",Cine Accion
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w745973491.m3u8
-#EXTINF:-1 group-title="PELICULAS",Cine Suspenso
-https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/chunklist_w1213159772.m3u8
+
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24Horas.TV" group-title="España", 24Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 group-title="Peliculas",Cine Estelar 

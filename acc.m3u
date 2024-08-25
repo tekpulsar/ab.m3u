@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/etE1CtyVneDf9kDTJvtWG0Iol90.jpg",El Abuelo y Kid (2024)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.32.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/csGb0Dnt25hhf9BkjlAIjAoTYBb.jpg",Parpadea dos veces (2024)
+https://github.com/linkarg13/Pelis2/releases/download/Pelis/0.33.mp4
+
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5wI2KoZdTwOtZFPyesVRaEEpOOz.jpg"group-title="", Los juegos del hambre 1
 https://github.com/HECTHINHOXD/BFLIX-PELIS/releases/download/Pelis-Bflix-tv/los.juegos.del.hambre.1.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/fe80QhoNxp6FnVXdkvSMea73xyj.jpg"group-title="", los juegos del hambre 2: En llamas

@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,RD
-https://drive.google.com/file/d/1-2hLI9kZo5pXaztPNUeIGduwv9DixlgN/view?usp=drive_link
+
+https://drive.google.com/file/d/1-2hLI9kZo5pXaztPNUeIGduwv9DixlgN/view?usp=sharing
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3awoWMKDfTROjGB2vivky1TCSRd.jpg",El hoyo 2
 https://github.com/linkarg13/Pelis3/releases/download/2884848ed9/07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sqS28Bpb8NTOsdLVOHDmIHU9nNY.jpg"group-title="",sed de venganza 2 (2024)

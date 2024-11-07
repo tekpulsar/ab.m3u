@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1, rostro 
+https://www.dropbox.com/scl/fi/x8u8o772ttdlncggr56kd/289582-a533cd6c-6aa8-454c-b35f-102b2569011b-aixq-2541384-doodstream.mp4?rlkey=lw6f0dcevbwtv8miw5oad5svk&st=tuz1r3cn&dl=0
+
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/7d/b0/d3/7db0d358806eec89ff405efe38343386.jpg",007: Otro dia para morir (2002)
 http://vod.tuxchannel.mx/peliculas/720/die%20another%20day.mkv
 #EXTINF:-1  tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/13/08/29/159059.jpg",007: Skyfall (2012)

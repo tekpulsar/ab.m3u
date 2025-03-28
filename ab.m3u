@@ -3,14 +3,30 @@
         
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="La1.TV" group-title="España",La1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="España" ,TVE Internacional Asia-Oceania 
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-name="La2.TV" group-title="España",La2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24Horas.TV" group-title="España", 24Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" group-title="España",EURONEWS
-https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ElPaís" tvg-name="ElPaís" group-title="España",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 group-title="España",TV Cuatro 
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 group-title="España",DW Español 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="España",La Sexta (720p)
+http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 group-title="España",AMC 
+http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:-1 group-title="España",AMC en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?
+#EXTINF:-1 group-title="España",Bom Cine 
+http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1 group-title="España",Bellavisión 
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 group-title="España",Bebeto 
+https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24Horas.TV" group-title="España", 24Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8

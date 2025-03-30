@@ -3,10 +3,10 @@
         
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="La1.TV" group-title="España",La1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="España", TVE Internacional Asia-Oceania 
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-name="La2.TV" group-title="España",La2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="España", TVE Internacional Asia-Oceania 
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 group-title="España", TVE Star  
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24Horas.TV" group-title="España", 24Horas
@@ -19,8 +19,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 group-title="España",AMC 
 http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:-1 group-title="España",AMC en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?
 #EXTINF:-1 group-title="España",Bom Cine 
 http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 group-title="España",Bellavisión 
@@ -33,10 +31,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 http://185.189.225.150:85/8madrid/index.m3u8
 #EXTINF:-1 group-title="España",Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="España",Xtrema Cine Acción 
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 group-title="España",Milenium TV (720p)
-https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 #EXTINF:-1  group-title="España",Pelis y Popcorn
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 

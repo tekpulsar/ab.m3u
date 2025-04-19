@@ -11,8 +11,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24Horas.TV" group-title="España",24Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="España",TV Cuatro 
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
 #EXTINF:-1 group-title="España",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="España",La Sexta (720p)

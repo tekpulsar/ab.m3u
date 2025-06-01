@@ -12,14 +12,13 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 group-title="España",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="España",La Sexta (720p)
+#EXTINF:-1 group-title="España",La Sexta 
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 group-title="España",AMC 
 http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 group-title="España",Bom Cine 
 http://185.189.225.150:85/BOM/index.m3u8
-#EXTINF:-1 group-title="España",Bebeto 
-https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
+
 #EXTINF:-1 group-title="España",Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1  group-title="España",Bellavisión 
@@ -33,8 +32,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 group-title="España",History 2 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24Horas.TV" group-title="España", 24Horas
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
 #EXTINF:-1 group-title="Peliculas",Cine Estelar 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Peliculas",Cine Acción 
